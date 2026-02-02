@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+:root {
+  /* Splaterra Studio – Museum / Art Gallery Palette */
+  --color-primary: #2A1F1A;   /* Deep museum brown */
+  --color-secondary: #6B3F2B; /* Burnt Sienna */
+  --color-accent: #8B5E3C;    /* Aged Leather */
+
+  /* Text colors */
+  --color-text-main: #E6DCD1; /* Soft bone */
+  --color-text-muted: #9B8F86;
+
+  /* UI support */
+  --color-surface: #3B2A21;
+  --color-border: #4A352A;
+}
