@@ -1,4 +1,4 @@
-"use server";
+
 import pool from "./neon";
 
 export async function getScanData() {

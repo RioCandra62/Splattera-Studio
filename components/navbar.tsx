@@ -48,7 +48,7 @@ export default function Navbar() {
             <Link href="/about" className={navStyle}>About</Link>
 
             <Link
-              href="/login"
+              href="/"
               className="px-4 py-2 border border-[#CBB8A9]/40 rounded-full
               text-sm text-[#F7F2EE]
               hover:bg-[#F7F2EE] hover:text-[#2A1F1A]
